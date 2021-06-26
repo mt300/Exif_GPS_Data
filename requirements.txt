@@ -1,0 +1,6 @@
+PIL
+PIL.ExifTags
+csv
+os
+os.path
+re
